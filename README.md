@@ -27,6 +27,14 @@ pip install pygame
     - Selection Sort (S): Selection Sort algorithm.
 - Quit (Closing the window or pressing Q): Exits the visualizer.
 
+## Screenshots
+
+![Interface](image.png)
+
+![Bubble Sort - Ascending](image-1.png)
+
+![Merge Sort - Descending](image-2.png)
+
 ## Visual Representation
 - The graphical window displays bars representing the elements of the list.
 - Each step of the sorting algorithm is visually highlighted with different colors to provide a clear understanding of the sorting process.
